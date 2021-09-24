@@ -1,0 +1,9 @@
+#title{
+	text-align: center;
+}
+
+.title-image{
+	position: static;
+	width: 50%;
+	transform: rotate(0);
+}
