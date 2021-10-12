@@ -55,7 +55,7 @@ p{
 
 .nav-link{
 	font-size: 1.2rem;
-	font-weight: : 100;
+	font-weight: 100;
 }
 
 /* Download Button */
@@ -84,7 +84,7 @@ p{
 }
 
 .icon{
-	color: #FABA14;
+	color: #9e14fa;
 	margin-bottom: 1rem;
 }
 
@@ -111,7 +111,7 @@ p{
 }
 
 #press{
-	background-color: #FABA14;
+	background-color: #14e7fa;
 	text-align: center;
 	padding: 3%;
 }
